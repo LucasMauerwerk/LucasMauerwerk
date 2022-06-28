@@ -1,4 +1,4 @@
-<h1> Olá, me chamo Lucas Mauerwerk Mendes, tenho 16 anos e quero entrar na área de desenvolvimento de sistemas  
+<h1> Olá, me chamo Lucas Mauerwerk Mendes, tenho 16 anos e quero entrar na área de desenvolvimento de sistemas  <h1>
 
 - 🙋‍♂️ Gosto de trabalar em equipe
 - 🧏‍♂️ Sou comunicativo 
