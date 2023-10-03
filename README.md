@@ -18,5 +18,9 @@
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 
-Apaixonado por teclonologia, educação e por mudar a vida das pessoas através da programação.
+
+Certamente, aqui está o seu texto:
+
+Meu nome é Lucas Mauerwerk Mendes, tenho 17 anos e atualmente estou trabalhando na Polícia Militar. Desde cedo, sempre fui fascinado pela tecnologia e pela forma como ela molda o mundo ao nosso redor. Essa paixão me levou a buscar conhecimento e, aos 16 anos, tive a oportunidade de participar do programa Entra21, onde tive a chance de aprender programação.
+Minha infância foi marcada pela curiosidade e pelo desejo de entender como as coisas funcionam. Desde pequeno, desmontava aparelhos eletrônicos para descobrir seus segredos internos. Esse interesse natural pela tecnologia me motivou a explorar o mundo da programação, onde encontrei meu verdadeiro chamado.
 
