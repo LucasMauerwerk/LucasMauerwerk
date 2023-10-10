@@ -5,7 +5,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mendes_bnu_/)
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mauerwerk-mendes/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMauerwerk&layout=compact)
+Tenho 17 anos e atualmente estou trabalhando na Polícia Militar. Sempre fui fascinado pela tecnologia e pela forma como ela molda o mundo ao nosso redor e, aos 16 anos, tive a oportunidade de participar do programa Entra21, onde tive a chance de aprender programação.
+Minha infância foi marcada pela curiosidade e pelo desejo de entender como as coisas funcionam. Desde pequeno, desmontava aparelhos eletrônicos para descobrir como eles são feitos. Des de quando tive o contato com a programação, tive a certeza que ela seria meu futuro.
+
+
 
 ## Tecnologias
 
@@ -17,7 +20,8 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMauerwerk&layout=compact)
 
-Tenho 17 anos e atualmente estou trabalhando na Polícia Militar. Sempre fui fascinado pela tecnologia e pela forma como ela molda o mundo ao nosso redor e, aos 16 anos, tive a oportunidade de participar do programa Entra21, onde tive a chance de aprender programação.
-Minha infância foi marcada pela curiosidade e pelo desejo de entender como as coisas funcionam. Desde pequeno, desmontava aparelhos eletrônicos para descobrir como eles são feitos. Des de quando tive o contato com a programação, tive a certeza que ela seria meu futuro.
+
+
 
