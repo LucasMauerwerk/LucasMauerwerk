@@ -7,7 +7,7 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMauerwerk&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-Tenho 17 anos e atualmente estou trabalhando na Polícia Militar.
+Tenho 18 anos e atualmente estou trabalhando na Polícia Militar.
 Sempre fui fascinado pela tecnologia e pela forma como ela molda o mundo ao nosso redor e, aos 16 anos, tive a oportunidade de participar do programa Entra21, onde tive a chance de aprender programação.
 Minha infância foi marcada pela curiosidade e pelo desejo de entender como as coisas funcionam. Desde pequeno, desmontava aparelhos eletrônicos para descobrir como eles são feitos.
 Des de quando tive o contato com a programação, tive a certeza que ela seria meu futuro.
